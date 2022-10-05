@@ -49,3 +49,11 @@ button:hover{
     display: flex;
     flex-direction: row;
 }
+
+#textoVoto{
+    display: none;
+}
+
+#textoVoto1{
+    display: none;
+}
