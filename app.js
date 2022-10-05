@@ -21,7 +21,7 @@ let divCantVotosL2 = document.getElementById("cantVotosL2");
         seleccionarTex1.style.display = "block";
         seleccionarTex.style.display = "none";
     }
-    setTimeout(Lista2, 2000);
+ 
     function porcentaje(){
         //let porcentajeL1 = document.getElementById('porcentajeL1');
         //let porcentajeL2 = document.getElementById('porcentajeL2');
